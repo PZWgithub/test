@@ -1,0 +1,13 @@
+https://zhuanlan.zhihu.com/p/34021483
+
+https://www.jianshu.com/nb/19295209
+
+https://www.zhihu.com/search?hybrid_search_extra=%7B%22sourceType%22%3A%22article%22%2C%22sourceId%22%3A34021483%7D&hybrid_search_source=Entity&q=Designing%20Data-Intensive%20Applications&search_source=Entity&type=content
+
+http://xfido.com/pdf/designing-data-intensive-applications.pdf
+
+https://github.com/hyhlinux/DDIA
+
+https://blog.csdn.net/xllily_11/article/details/51330252
+
+https://blog.csdn.net/Hanani_Jia/article/details/77950594
